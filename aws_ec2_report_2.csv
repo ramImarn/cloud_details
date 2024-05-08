@@ -1,0 +1,4 @@
+,ec2_id,ec2_type,CPUUtilization,NetworkIn,NetworkOut,NetworkPacketsIn,NetworkPacketsOut,ec2_status,elastic_ip,load balancer,recomentation
+0,i-046e41caef8f56325,t2.medium,4.3485644160415,36743629.6,196756.4,438.0,312.6,ec2 is healthy,False,False,ec2 is healty 
+1,i-0855ec79810f2fae4,t2.medium,9.237598406964889,96971246.6,300202.2,153854.6,10260.4,ec2 needed to enhace,False,False,The next larger EC2 instance type after t2.medium is t2.large.
+2,i-03dfbc4d8408ae942,t2.medium,8.915689543391716,133944.4,1023696.0,501.8,471.4,ec2 needed to enhace,True,False,The next larger EC2 instance type after t2.medium is the t2.large instance type.
